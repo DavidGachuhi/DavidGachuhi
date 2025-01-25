@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidGachuhi
-- 👀 I’m interested in Technology, Beautifully written screenplays and stories, Calisthenics, Good Music and fire sunsets.
-- 🌱 I’m currently learning How to code. I am currently starting with Python
+- 👀 I’m interested in Technology, Calisthenics, Good Music and fire sunsets.
+- 🌱 I’m currently learning How to code. I am currently starting with Frontend development.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me Email: davidgachuhi2610@gmail.com
 <!---
